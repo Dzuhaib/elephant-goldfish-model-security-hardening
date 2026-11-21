@@ -3,7 +3,7 @@
 *   **Author:** [@Dzuhaib](https://github.com/Dzuhaib)
 *   **Status:** Draft
 *   **Date:** 2026-11-22
-*   **Tracking:** Refs #<issue> (open a feature-proposal issue and obtain `design-ready` before review)
+*   **Tracking:** Refs #552 (awaiting `design-ready`)
 
 --------------------------------------------------------------------------------
 
